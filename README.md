@@ -1,1 +1,1 @@
-using OOP for practice, not for best practices
+using OOP for practice, not for best practices. also assuming packages (esp numpy) do not exist
